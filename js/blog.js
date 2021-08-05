@@ -9,7 +9,7 @@ let drawPostsList;
             <div class="card">
                 <div class="row no-gutters">
                 <div class="col-lg-5 col-12">
-                    <div class="blog-card-bg " style = "background: url(${item.urlImgPost});"></div>
+                    <div class="blog-card-bg " style = "background-image: url(${item.urlImgPost});"></div>
                 </div>
                 <div class="col-lg-7  col-12">
                     <div class="card-body">
